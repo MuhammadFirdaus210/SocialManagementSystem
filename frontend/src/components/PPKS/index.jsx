@@ -9,7 +9,7 @@ const PPKSRoutes = () => {
   const routes = [
     {path: "/", element:<TableLayout/> },
     {path: "/:tipe", element:<TableLayout jenis={'ppks'}/> },
-    {path: "/cetak", element: <CetakData tipe="[ppsk]" breadcrumbItems={[...newBreadcrumbItems, {label: 'Cetak Data', path:''}]} />},
+    {path: "/cetak", element: <CetakData tipe="PPKS" breadcrumbItems={[...newBreadcrumbItems, {label: 'Cetak Data', path:''}]} />},
     {path: "/cetak_rekapitulasi", element: <CetakDataRekapitulasi tipe="PPKS" breadcrumbItems={[...newBreadcrumbItems, {label: 'Cetak Data Rekapitulasi', path:''}]} />},
   ]
   return (
