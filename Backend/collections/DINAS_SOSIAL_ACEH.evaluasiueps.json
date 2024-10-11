@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "66f30c467a480c414462f103"
+  },
+  "statusBantuan": "Tetap",
+  "namaPendamping": "John Doe",
+  "pekerjaanPendamping": "Pekerja Sosial",
+  "createdAt": {
+    "$date": "2024-09-24T19:00:22.179Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T19:00:22.179Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055fb3f90247a0679f96af"
+  },
+  "statusBantuan": "Tetap",
+  "namaPendamping": "Dinas",
+  "pekerjaanPendamping": "Pekerja Sosial",
+  "createdAt": {
+    "$date": "2024-10-08T16:37:07.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:37:07.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a3afadacf5f31c5844c"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:02.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:02.393Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a4bfadacf5f31c5845c"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:19.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:19.920Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056d62140216ecaff701c5"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-08T17:35:30.815Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:35:30.815Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bc4c678e06b557cb0fe0"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-09T17:24:28.465Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T17:24:28.465Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bdeb88813b4119bb3fdf"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-09T17:31:23.197Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T17:31:23.197Z"
+  },
+  "__v": 0
+}]

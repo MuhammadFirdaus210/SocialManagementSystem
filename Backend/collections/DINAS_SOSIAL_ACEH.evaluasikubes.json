@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "66f30deb227b4054739cca6f"
+  },
+  "statusBantuan": "Tetap",
+  "namaPendamping": "John",
+  "pekerjaanPendamping": "Pekerja Sosial",
+  "createdAt": {
+    "$date": "2024-09-24T19:07:23.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T19:07:23.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f30e0d227b4054739cca74"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Humas",
+  "pekerjaanPendamping": "Pekerja Sosial",
+  "createdAt": {
+    "$date": "2024-09-24T19:07:57.981Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T19:07:57.981Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055fbef90247a0679f96b2"
+  },
+  "statusBantuan": "Tetap",
+  "namaPendamping": "DoeTzy",
+  "pekerjaanPendamping": "Pekerja Sosial",
+  "createdAt": {
+    "$date": "2024-10-08T16:37:18.779Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:37:18.779Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a47fadacf5f31c58453"
+  },
+  "statusBantuan": "Berjalan",
+  "namaPendamping": "Budi Santoso",
+  "pekerjaanPendamping": "Petugas Lapangan",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:15.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:15.714Z"
+  },
+  "__v": 0
+}]

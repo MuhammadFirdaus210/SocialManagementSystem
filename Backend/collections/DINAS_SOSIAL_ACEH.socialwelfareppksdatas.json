@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "67017efadd1da9e3c7a83c87"
+  },
+  "type": "PPKS",
+  "gampong": "Tanjung Seulamat",
+  "ADK": 10,
+  "AY_AP_AYP": 5,
+  "AT": 7,
+  "ABH": 3,
+  "AJ": 2,
+  "ABT": 4,
+  "AKTK": 6,
+  "PRSE": 1,
+  "KTK": 0,
+  "LUT": 0,
+  "PD": 2,
+  "TS": 1,
+  "PGMS": 0,
+  "GLDG": 0,
+  "BWBLK": 0,
+  "NAPZA": 0,
+  "FM": 0,
+  "RTLH": 1,
+  "KR": 0,
+  "KBSP": 0,
+  "KAT": 0,
+  "KBA": 0,
+  "KBS": 0,
+  "PM": 0,
+  "ODHA": 0,
+  "ODKB": 0,
+  "createdAt": {
+    "$date": "2024-10-05T18:01:30.567Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T18:01:30.567Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67017fa8dd1da9e3c7a83c90"
+  },
+  "type": "PPKS",
+  "gampong": "Mata Ie",
+  "ADK": 10,
+  "AY_AP_AYP": 5,
+  "AT": 7,
+  "ABH": 3,
+  "AJ": 2,
+  "ABT": 4,
+  "AKTK": 6,
+  "PRSE": 1,
+  "KTK": 0,
+  "LUT": 0,
+  "PD": 2,
+  "TS": 1,
+  "PGMS": 0,
+  "GLDG": 0,
+  "BWBLK": 0,
+  "NAPZA": 0,
+  "FM": 0,
+  "RTLH": 1,
+  "KR": 0,
+  "KBSP": 0,
+  "KAT": 0,
+  "KBA": 0,
+  "KBS": 0,
+  "PM": 0,
+  "ODHA": 0,
+  "ODKB": 0,
+  "createdAt": {
+    "$date": "2024-10-05T18:04:24.025Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T18:04:24.025Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,244 @@
+[{
+  "_id": {
+    "$oid": "66e92a3b630ce2783ead32c5"
+  },
+  "namaKelompok": "Kelompok Kerja KKP 12345678",
+  "nomorHP": "08987654321",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD-001/2024",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2024-03-17T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM-123/2024 tanggal 15 Maret 2024",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "66e92a3b630ce2783ead32c6"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "66e92a3b630ce2783ead32c7"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC-456/2024 tanggal 16 Maret 2024",
+  "bidangBantuan": "Ekonomi",
+  "jenisBantuan": "Modal Usaha",
+  "alamatUsaha": "Jl. Merdeka No. 123, Kota Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e92a47630ce2783ead32ca"
+  },
+  "namaKelompok": "Kelompok INFEST",
+  "nomorHP": "081234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD-001/2024",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2024-03-17T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM-123/2024 tanggal 15 Maret 2024",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "66e92a47630ce2783ead32cb"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "66e92a47630ce2783ead32cc"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC-456/2024 tanggal 16 Maret 2024",
+  "bidangBantuan": "Ekonomi",
+  "jenisBantuan": "Modal Usaha",
+  "alamatUsaha": "Jl. Merdeka No. 123, Kota Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f13547dc94db36985ae5af"
+  },
+  "namaKelompok": "Kelompok INFEST",
+  "nomorHP": "081234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD-001/2024",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2024-03-17T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM-123/2024 tanggal 15 Maret 2024",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "66f13547dc94db36985ae5b0"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "66f13547dc94db36985ae5b1"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC-456/2024 tanggal 16 Maret 2024",
+  "bidangBantuan": "Ekonomi",
+  "jenisBantuan": "Modal Usaha",
+  "alamatUsaha": "Jl. Merdeka No. 123, Kota Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1379cb02fac5add909010"
+  },
+  "namaKelompok": "Kelompok Maju Bersama",
+  "nomorHP": "081234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD/2023/001",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2023-09-23T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM/2023/001",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "66f1379cb02fac5add909011"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "66f1379cb02fac5add909012"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC/2023/001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit Jagung",
+  "alamatUsaha": "Jl. Merdeka No. 123, Desa Sukamaju, Kec. Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f137b0b02fac5add909019"
+  },
+  "namaKelompok": "Kelompok Maju Bersama",
+  "nomorHP": "081234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD/2023/001",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2023-09-23T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM/2023/001",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "66f137b0b02fac5add90901a"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "66f137b0b02fac5add90901b"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC/2023/001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit Jagung",
+  "alamatUsaha": "Jl. Merdeka No. 123, Desa Sukamaju, Kec. Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055e5af90247a0679f9698"
+  },
+  "namaKelompok": "Kelompok Maju Bersama",
+  "nomorHP": "081234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AGD/2023/001",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2023-09-23T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM/2023/001",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "67055e5af90247a0679f9699"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "67055e5af90247a0679f969a"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RKC/2023/001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit Jagung",
+  "alamatUsaha": "Jl. Merdeka No. 123, Desa Sukamaju, Kec. Sejahtera",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a47fadacf5f31c58455"
+  },
+  "namaKelompok": "Kelompok Tani Sejahtera",
+  "nomorHP": "234567890",
+  "NIKKetua": "1234567890123456",
+  "nomorAgendaPermohonan": "AG-2023-001",
+  "NIKSekretaris": "2345678901234567",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "NIKBendahara": "3456789012345678",
+  "suratKurangMampu": "SKM-2023-001",
+  "anggota": [
+    {
+      "NIK": "4567890123456789",
+      "_id": {
+        "$oid": "67056a47fadacf5f31c58456"
+      }
+    },
+    {
+      "NIK": "5678901234567890",
+      "_id": {
+        "$oid": "67056a47fadacf5f31c58457"
+      }
+    }
+  ],
+  "rekomendasiCamat": "RC-2023-001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bantuan Alat Pertanian",
+  "alamatUsaha": "Jl. Kebun Raya No. 123, Desa Makmur, Kecamatan Sejahtera",
+  "verifikasiKUBE": {
+    "$oid": "67056a47fadacf5f31c58451"
+  },
+  "evaluasiKUBE": {
+    "$oid": "67056a47fadacf5f31c58453"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "67017f75dd1da9e3c7a83c8a"
+  },
+  "type": "PSKS",
+  "gampong": "Tanjung Seulamat",
+  "PSP": 0,
+  "PSM": 0,
+  "TAGANA": 0,
+  "LKS": {
+    "count": 0,
+    "maleClients": 0,
+    "femaleClients": 0
+  },
+  "LKSA": {
+    "count": 0,
+    "maleClients": 0,
+    "femaleClients": 0
+  },
+  "KT": {
+    "count": 0,
+    "maleMembers": 0,
+    "femaleMembers": 0
+  },
+  "LK3": {
+    "count": 0,
+    "maleManagers": 0,
+    "femaleManagers": 0
+  },
+  "K_PIONER": 0,
+  "WKSBM": {
+    "count": 0,
+    "maleMembers": 0,
+    "femaleMembers": 0
+  },
+  "WPKS": 0,
+  "PS": 0,
+  "D_USAHA": 0,
+  "TKSK": 0,
+  "createdAt": {
+    "$date": "2024-10-05T18:03:33.372Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T18:03:33.372Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67017f91dd1da9e3c7a83c8d"
+  },
+  "type": "PSKS",
+  "gampong": "Prada",
+  "PSP": 0,
+  "PSM": 0,
+  "TAGANA": 0,
+  "LKS": {
+    "count": 0,
+    "maleClients": 0,
+    "femaleClients": 0
+  },
+  "LKSA": {
+    "count": 0,
+    "maleClients": 0,
+    "femaleClients": 0
+  },
+  "KT": {
+    "count": 0,
+    "maleMembers": 0,
+    "femaleMembers": 0
+  },
+  "LK3": {
+    "count": 0,
+    "maleManagers": 0,
+    "femaleManagers": 0
+  },
+  "K_PIONER": 0,
+  "WKSBM": {
+    "count": 0,
+    "maleMembers": 0,
+    "femaleMembers": 0
+  },
+  "WPKS": 0,
+  "PS": 0,
+  "D_USAHA": 0,
+  "TKSK": 0,
+  "createdAt": {
+    "$date": "2024-10-05T18:04:01.039Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-05T18:04:01.039Z"
+  },
+  "__v": 0
+}]

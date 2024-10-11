@@ -1,0 +1,156 @@
+[{
+  "_id": {
+    "$oid": "66e98430c750b3d801b625a9"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-001/2024",
+  "tanggalPermohonan": {
+    "$date": "2024-03-17T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-123/2024 tanggal 15 Maret 2024",
+  "rekomendasiCamat": "RKC-456/2024 tanggal 16 Maret 2024",
+  "bidangBantuan": "Ekonomi",
+  "jenisBantuan": "Modal Usaha",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e98473c750b3d801b625ad"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-001/2024",
+  "tanggalPermohonan": {
+    "$date": "2024-03-17T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-123/2024 tanggal 15 Maret 2024",
+  "rekomendasiCamat": "RKC-456/2024 tanggal 16 Maret 2024",
+  "bidangBantuan": "POLITIK",
+  "jenisBantuan": "INFEST",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1887fe09276f6e672accc"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-20",
+  "rekomendasiCamat": "RKC/2024/001 - 2024-09-21",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Becak Baru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1888de09276f6e672acd0"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-20",
+  "rekomendasiCamat": "RKC/2024/001 - 2024-09-21",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Becak Baru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2ce3283ca8c33f33f2e6b"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-20",
+  "rekomendasiCamat": "RKC/2024/001 - 2024-09-21",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Becak Baru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2d9c3b67b04a8fb77a2a7"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-20",
+  "rekomendasiCamat": "RKC/2024/001 - 2024-09-21",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Becak Baru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055e77f90247a0679f969d"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-20",
+  "rekomendasiCamat": "RKC/2024/001 - 2024-09-21",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Becak Baru",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056b04fadacf5f31c5846b"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-002",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-002",
+  "rekomendasiCamat": "RC-2023-002",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Bibit Ikan",
+  "verifikasiManfaat": {
+    "$oid": "67056b04fadacf5f31c58467"
+  },
+  "evaluasiManfaat": {
+    "$oid": "67056b04fadacf5f31c58469"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706c3ef87f7eeead5875d3c"
+  },
+  "NIK": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-002",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-002",
+  "rekomendasiCamat": "RC-2023-002",
+  "bidangBantuan": "BECAK",
+  "jenisBantuan": "Bantuan Bibit Ikan",
+  "verifikasiManfaat": {
+    "$oid": "6706c3ef87f7eeead5875d38"
+  },
+  "evaluasiManfaat": {
+    "$oid": "6706c3ef87f7eeead5875d3a"
+  },
+  "__v": 0
+}]

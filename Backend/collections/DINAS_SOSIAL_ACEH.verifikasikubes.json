@@ -1,0 +1,51 @@
+[{
+  "_id": {
+    "$oid": "66f2eb264652e37146c6175a"
+  },
+  "tahun": 2050,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T16:39:02.583Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T17:54:44.364Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055eb4f90247a0679f96a5"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "Approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T16:32:52.222Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:32:52.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a47fadacf5f31c58451"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:15.712Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:15.712Z"
+  },
+  "__v": 0
+}]

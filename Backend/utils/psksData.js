@@ -1,0 +1,15 @@
+export const psksData = [
+    { no: 1, nama: "PSP", kepanjangan: "Pekerja Sosial Profesional" },
+    { no: 2, nama: "PSM", kepanjangan: "Pekerja Sosial Masyarakat" },
+    { no: 3, nama: "TAGANA", kepanjangan: "Taruna Siaga Bencana" },
+    { no: 4, nama: "LKS", kepanjangan: "Lembaga Kesejahteraan Sosial" },
+    { no: 5, nama: "LKSA", kepanjangan: "Lembaga Kesejahteraan Sosial Anak" },
+    { no: 6, nama: "KT", kepanjangan: "Karang Taruna" },
+    { no: 7, nama: "LK3", kepanjangan: "Lembaga Konsultasi Kesejahteraan Keluarga" },
+    { no: 8, nama: "K.PIONER", kepanjangan: "Keluarga Pioner" },
+    { no: 9, nama: "WKSBM", kepanjangan: "Wahana Kesejahteraan Sosial Berbasis Masyarakat" },
+    { no: 10, nama: "WPKS", kepanjangan: "Wanita Pemimpin Kesejahteraan Sosial" },
+    { no: 11, nama: "PS", kepanjangan: "Pekerja Sosial" },
+    { no: 12, nama: "D.USAHA", kepanjangan: "Dunia Usaha" },
+    { no: 13, nama: "TKSK", kepanjangan: "Tenaga Kesejahteraan Sosial Kecamatan" },
+];

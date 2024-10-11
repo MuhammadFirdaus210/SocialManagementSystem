@@ -1,0 +1,238 @@
+[{
+  "_id": {
+    "$oid": "66f2ea6d4bf7462ed57fefcc"
+  },
+  "tahun": 2030,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T16:35:57.648Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T18:03:54.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2eb004652e37146c61758"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T16:38:24.386Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T16:38:24.386Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2ecbe2e69b58915e11ff7"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T16:45:50.333Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T16:45:50.333Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2ef9aa1bbafc919eb10ab"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T16:58:02.109Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T16:58:02.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2f8e75c842efba1b4076a"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T17:37:43.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T17:37:43.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f2f9779fd4b2524600cf6c"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-09-24T17:40:07.673Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-24T17:40:07.673Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055e8df90247a0679f96a0"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "Approved",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T16:32:13.317Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:32:13.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055e9af90247a0679f96a2"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T16:32:26.363Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:32:26.363Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056239c331f660d2a98827"
+  },
+  "tahun": 2024,
+  "jumlahBantuan": 100000,
+  "sumberDana": "APBA",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T16:47:53.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T16:47:53.508Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a3afadacf5f31c5844a"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:02.382Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:02.382Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a4bfadacf5f31c5845a"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T17:22:19.918Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:22:19.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056d62140216ecaff701c3"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-08T17:35:30.808Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T17:35:30.808Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bc4c678e06b557cb0fde"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-09T17:24:28.456Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T17:24:28.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bdeb88813b4119bb3fdd"
+  },
+  "tahun": 2023,
+  "jumlahBantuan": 5000000,
+  "sumberDana": "APBN",
+  "status": "Pending",
+  "keterangan": "",
+  "createdAt": {
+    "$date": "2024-10-09T17:31:23.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-09T17:31:23.188Z"
+  },
+  "__v": 0
+}]

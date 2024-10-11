@@ -1,0 +1,217 @@
+[{
+  "_id": {
+    "$oid": "66e92047bf03958cdb1e3291"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "001/UEP/2023",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "path/to/suratKurangMampu.pdf",
+  "rekomendasiCamat": "path/to/rekomendasiCamat.pdf",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit",
+  "alamatUsaha": "Jl. Contoh No. 1, Jakarta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66e92056bf03958cdb1e3294"
+  },
+  "nik": "3275021234567890",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "UEP/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-17T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-10",
+  "rekomendasiCamat": "RC/2024/001 - 2024-09-15",
+  "bidangBantuan": "Usaha Mikro",
+  "jenisBantuan": "Modal INFEST",
+  "alamatUsaha": "Jl. Merdeka No. 123, Kelurahan Sejahtera, Kecamatan Makmur, Kota Bahagia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66eadea07260b7209c86d031"
+  },
+  "nik": "3275021234567890",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "UEP/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-17T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001 - 2024-09-10",
+  "rekomendasiCamat": "RC/2024/001 - 2024-09-15",
+  "bidangBantuan": "Usaha Mikro",
+  "jenisBantuan": "Modal INFEST",
+  "alamatUsaha": "Jl. Merdeka No. 123, Kelurahan Sejahtera, Kecamatan Makmur, Kota Bahagia",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f13453dc94db36985ae5a5"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001",
+  "rekomendasiCamat": "REC/2024/001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit Jagung",
+  "alamatUsaha": "Jl. Contoh No. 123, Desa Contoh, Kecamatan Contoh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f1346ddc94db36985ae5ac"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD/2024/001",
+  "tanggalPermohonan": {
+    "$date": "2024-09-23T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM/2024/001",
+  "rekomendasiCamat": "REC/2024/001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit Jagung",
+  "alamatUsaha": "Jl. Contoh No. 123, Desa Contoh, Kecamatan Contoh",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67055dfdf90247a0679f968e"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "001/UEP/2023",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "path/to/suratKurangMampu.pdf",
+  "rekomendasiCamat": "path/to/rekomendasiCamat.pdf",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit",
+  "alamatUsaha": "Jl. Contoh No. 1, Jakarta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a3afadacf5f31c5844e"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-001",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-001",
+  "rekomendasiCamat": "RC-2023-001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bantuan Alat Pertanian",
+  "alamatUsaha": "Jl. Kebun Raya No. 123, Desa Makmur, Kecamatan Sejahtera",
+  "verifikasiUEP": {
+    "$oid": "67056a3afadacf5f31c5844a"
+  },
+  "evaluasiUEP": {
+    "$oid": "67056a3afadacf5f31c5844c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056a4bfadacf5f31c5845e"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-001",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-001",
+  "rekomendasiCamat": "RC-2023-001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bantuan Alat Pertanian",
+  "alamatUsaha": "Jl. Kebun Raya No. 123, Desa Makmur, Kecamatan Sejahtera",
+  "verifikasiUEP": {
+    "$oid": "67056a4bfadacf5f31c5845a"
+  },
+  "evaluasiUEP": {
+    "$oid": "67056a4bfadacf5f31c5845c"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67056d62140216ecaff701c7"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "001/UEP/2023",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "path/to/suratKurangMampu.pdf",
+  "rekomendasiCamat": "path/to/rekomendasiCamat.pdf",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bibit",
+  "alamatUsaha": "Jl. Contoh No. 1, Jakarta",
+  "verifikasiUEP": {
+    "$oid": "67056d62140216ecaff701c3"
+  },
+  "evaluasiUEP": {
+    "$oid": "67056d62140216ecaff701c5"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bc4c678e06b557cb0fe2"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-001",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-001",
+  "rekomendasiCamat": "RC-2023-001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bantuan Alat Pertanian",
+  "alamatUsaha": "Jl. Kebun Raya No. 123, Desa Makmur, Kecamatan Sejahtera",
+  "verifikasiUEP": {
+    "$oid": "6706bc4c678e06b557cb0fde"
+  },
+  "evaluasiUEP": {
+    "$oid": "6706bc4c678e06b557cb0fe0"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6706bdeb88813b4119bb3fe1"
+  },
+  "nik": "1234567890123456",
+  "nomorHP": "081234567890",
+  "nomorAgendaPermohonan": "AGD-2023-001",
+  "tanggalPermohonan": {
+    "$date": "2023-10-01T00:00:00.000Z"
+  },
+  "suratKurangMampu": "SKM-2023-001",
+  "rekomendasiCamat": "RC-2023-001",
+  "bidangBantuan": "PERTANIAN PALAWIJA",
+  "jenisBantuan": "Bantuan Alat Pertanian",
+  "alamatUsaha": "Jl. Kebun Raya No. 123, Desa Makmur, Kecamatan Sejahtera",
+  "verifikasiUEP": {
+    "$oid": "6706bdeb88813b4119bb3fdd"
+  },
+  "evaluasiUEP": {
+    "$oid": "6706bdeb88813b4119bb3fdf"
+  },
+  "__v": 0
+}]
