@@ -26,7 +26,6 @@ const styles = StyleSheet.create({
         padding: 5,
         borderRight: '1px solid #ccc',
         flex: 1,
-
     },
     headerCell: {
         backgroundColor: '#f0f0f0',
@@ -62,13 +61,17 @@ const styles = StyleSheet.create({
 });
 
 // Komponen PDF untuk menampilkan data dalam bentuk tabel
-const MyCetakData = ({ data, header = {}, tipe = "PPKS" }) => {
+const MyCetakData = ({ data, header = {}, tipe = "PPKS", jenis }) => {
+    // Tentukan teks footer berdasarkan tipe
+    const footerText = tipe.toLowerCase() === "ppks" ? "Data PPKS - Dicetak oleh Sistem" : "Data PSKS - Dicetak oleh Sistem";
+    const headerText = tipe.toLowerCase() === "ppks" ? `Data PPKS - ${jenis}` : `Data PSKS - ${jenis}`;
+
     return (
         <Document>
             <Page style={styles.page} size="A4" orientation="landscape">
                 {/* Header Halaman */}
                 <View >
-                    <Text style={styles.header}>Data {tipe.toUpperCase()}</Text>
+                    <Text style={styles.header}>{headerText}</Text>
                 </View>
 
                 <View style={styles.header}>
@@ -106,7 +109,7 @@ const MyCetakData = ({ data, header = {}, tipe = "PPKS" }) => {
                     {/* Looping untuk menampilkan setiap item dalam array */}
                     {data.map((item, index) => (
                         <View style={styles.tableRow} key={index}>
-                            <Text style={styles.tableCell}>{item.Jenis_PPKS}</Text>
+                            <Text style={styles.tableCell}>{item.Jenis_PPKS || item.Jenis_PSKS}</Text>
                             <Text style={styles.tableCell}>{item.Kabupaten}</Text>
                             <Text style={styles.tableCell}>{item.Kecamatan}</Text>
                             <Text style={styles.tableCell}>{item.Gampong}</Text>
@@ -123,14 +126,11 @@ const MyCetakData = ({ data, header = {}, tipe = "PPKS" }) => {
 
                 {/* Footer Halaman */}
                 <View style={styles.footer}>
-                    <Text>Data PPKS - Dicetak oleh Sistem</Text>
+                    <Text>{footerText}</Text>
                 </View>
             </Page>
         </Document>
     );
 };
 
-// Contoh Data PPKS yang digunakan
-
 export default MyCetakData;
-

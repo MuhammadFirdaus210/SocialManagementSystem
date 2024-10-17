@@ -70,8 +70,8 @@ const CetakData = ({ breadcrumbItems, tipe }) => {
       );
     });
 
-    const fileName = 'rekap.pdf'
-      const blob = await pdf(<MyCetakData data={filtered} header={{gampong:desa, kecamatan:kecamatan, kabupaten:kabupaten}} tipe={tipe}/>).toBlob();  
+    const fileName = 'Cetak_Data.pdf'
+      const blob = await pdf(<MyCetakData data={filtered} header={{gampong:desa, kecamatan:kecamatan, kabupaten:kabupaten}} tipe={tipe} jenis={jenis}/>).toBlob();  
       saveAs(blob, fileName);
 
     
