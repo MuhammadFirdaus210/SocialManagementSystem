@@ -60,7 +60,13 @@ Backend aplikasi ini menggunakan Express.js dan berjalan di port 4000.
 
 3. Jalankan server:
    ```
-   npm run dev ATAU BISA DIJALANKAN DENGAN npm start
+   npm start
+   ```
+
+   Atau bisa dijalankan juga dengan :
+
+   ```
+   npm run dev
    ```
 
 Server backend akan berjalan di `http://localhost:4000`.
