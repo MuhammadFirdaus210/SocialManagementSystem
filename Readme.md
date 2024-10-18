@@ -63,7 +63,7 @@ Backend aplikasi ini menggunakan Express.js dan berjalan di port 4000.
    npm start
    ```
 
-   Atau bisa dijalankan juga dengan :
+   Atau bisa dijalankan juga dengan:
 
    ```
    npm run dev
