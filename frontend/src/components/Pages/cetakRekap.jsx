@@ -51,7 +51,7 @@ const CetakDataRekapitulasi = ({ breadcrumbItems, tipe }) => {
     'KBSP' : ' Keluarga Bermasalah Sosial Psikologi',
   });
 
-  const [isLoading, setIsLoading] = useState(true);
+  const [isLoading, setIsLoading] = useState(false); // Ubah default menjadi false
   const [isSubmitted, setIsSubmitted] = useState(false);
 
   const [filteredData, setFilteredData] = useState(null);
@@ -75,6 +75,7 @@ const CetakDataRekapitulasi = ({ breadcrumbItems, tipe }) => {
 
   const handleSubmit = async (event) => {
     event.preventDefault();
+    setIsLoading(true); // Set isLoading to true when the submit starts
     setIsSubmitted(false); // Reset submit status
     
     try {
@@ -96,9 +97,7 @@ const CetakDataRekapitulasi = ({ breadcrumbItems, tipe }) => {
         kecamatan: selectedKecamatan,
       });
 
-
-      
-      const fileName = 'rekap.pdf'
+      const fileName = 'Rekap_Data.pdf';
       const blob = await pdf(<MyDocument data={responseData} header={{
         title: selectedJenisRekap,
         kabupaten: selectedKabupaten,
@@ -106,11 +105,11 @@ const CetakDataRekapitulasi = ({ breadcrumbItems, tipe }) => {
       }} footer={footer} />).toBlob();  
       saveAs(blob, fileName);
       setIsSubmitted(true); // Tandai sebagai sudah submit
-      setIsLoading(true);
-
     } catch (err) {
       console.log(err);
       alert('Error Memproses Data Cetak');
+    } finally {
+      setIsLoading(false); // Pastikan isLoading diatur kembali ke false
     }
   };
 
@@ -181,14 +180,12 @@ const CetakDataRekapitulasi = ({ breadcrumbItems, tipe }) => {
           <button
             type="submit"
             className="px-8 py-2 bg-blue-600 text-white font-semibold rounded-md shadow-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+            disabled={isLoading} // Disable button when loading
           >
             {isLoading ? 'Loading...' : 'Cetak'}
           </button>
         </div>
       </form>
-
-
-      
     </div>
   );
 };
